@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DE0_TOP">
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|top:top_inst|bcd:bcd_pc|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_2uo.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|top:top_inst|color_codes:color_inst|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_8gm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|top:top_inst|memory:mem_inst|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_dke1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|top:top_inst|bcd:bcd_pc|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_5mo.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|top:top_inst|bcd:bcd_sp|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_5mo.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|top:top_inst|color_codes:color_inst|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_b8m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|top:top_inst|cpu:cpu_inst|alu:ALU|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_cjm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|top:top_inst|cpu:cpu_inst|alu:ALU|lpm_mult:Mult0" CBX_FILE_NAME="mult_ubt.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
